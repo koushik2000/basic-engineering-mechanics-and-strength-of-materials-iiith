@@ -57,18 +57,7 @@ element, You can also include images with <img> tag -->
 
 </section>
 
-// PASTE the CHANGE.html content here..
-
-
-/*****************************************************************/
-
-
-
-
-
-
-
-
+// PASTE the CHANGE.html content here.//
 
 * Now run makefile by the following commands inside the 'ui/src' folder to
   change the default theme :
